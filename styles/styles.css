@@ -1,0 +1,132 @@
+body {
+    margin: 0 auto 0 auto;
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   background-color:#C8F1F1;
+   width: 50%;
+   
+}
+
+.main {
+    position: relative;
+ 
+}
+
+h1 {
+    font-size: 6rem;
+    margin: 12.5rem auto 0 auto; 
+    font-family: 'Brush Script MT';
+    color: rgb(17, 226, 174);
+    letter-spacing: 2px;
+    
+}
+.h1hello {
+    font-size: 6rem;
+    margin: 5rem auto 0 auto; 
+    font-family: 'Brush Script MT';
+    color: rgb(17, 226, 174);
+   
+    
+}
+
+h2 {
+    font-size: 2rem;
+    color: rgb(17, 226, 174);
+    margin: 0 auto 0 auto;
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+  
+}
+h3 {
+    font-size: 1.5rem;
+    color: rgb(17, 226, 174);
+    margin: 0 auto 0 auto;
+    letter-spacing: 2px;
+}
+
+
+
+.cloud-top {
+    position: absolute;
+    margin-top: -5rem;
+    left: 40rem; 
+}
+
+.cloud-bottom {
+    position: absolute;
+    left: 10rem;
+}
+.mountain {
+    width: 800px;
+    height: 500px;
+    margin-top: 2rem;
+
+}
+/* FÖRSTA SIDAN */
+
+.h1hello {
+    margin: 5rem auto 0 auto;
+ width: 50%;
+ 
+ }
+p {
+    font-size: 1.1rem;
+    margin: 0 auto 0 auto;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+.pintro {
+    margin: 2rem auto 5rem 5rem;
+    width: 100%;
+}
+ .profilbild {
+     width: 16rem; 
+    height: 16rem;
+    float: left;
+    margin: 5rem auto 0 auto;
+    
+}
+
+.skill-pic {
+  
+    width: 13rem; 
+    height: 13rem;
+    border-radius: 30%;
+    float: right;
+}
+.finance-pic {
+    
+    width: 13rem; 
+    height: 13rem;
+    border-radius: 30%;
+    float: left;
+}
+.h3skills {
+   margin: 0 auto 0 auto;
+width: 50%;
+}
+
+
+  /* HORISONTELLA LINJER */
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(17, 226, 174);
+  border-width: 1rem;
+  width: 15%;
+  margin: 5rem auto 0 auto;
+    
+   
+    
+  }
+
+  .skill-row {
+      margin-top: 5rem;
+  }
+
+  .h2contact {
+    margin: 5rem auto 0 auto;
+    width: 50%;
+  }
+
+  
